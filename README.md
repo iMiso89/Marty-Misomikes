@@ -1,8 +1,20 @@
-## Welcome to GitHub Pages
+## Personal Information
 
-You can use the [editor on GitHub](https://github.com/iMiso89/Marty-Misomikes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Name - Stamatis Misomikes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Student Number - S3756306
+
+Email address - marty_m1989@hotmail.com
+
+Background Information - I am a Greek-Australian, born in Rhodes, Greece
+
+Religion - Greek Orthodox
+
+Education - I left South Sydney High School in 2007, completed Accounting at TAFE & Uni though University of Technology Sydney
+
+Languages - I am fluent in both English and Greek
+
+Hobbies and interests - Massive Football (Soccer) fan, which I play, coach & support Olympiakos (Greece) & Liverpool (England)
 
 ### Markdown
 
